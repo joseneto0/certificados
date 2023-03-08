@@ -1,2 +1,2 @@
 # Certificados
-Certificados adquiridos durante a jornada para se tornar um bom programador :D
+Certificados adquiridos durante a jornada para se tornar um bom profissional :D
